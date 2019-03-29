@@ -1,0 +1,7 @@
+词条
+
+direction = 前,后,左,右
+
+说法
+
+direction.move =向<name>移动,向<name>转弯
